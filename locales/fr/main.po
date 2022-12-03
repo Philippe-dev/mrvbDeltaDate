@@ -1,0 +1,45 @@
+# -------------------------------------
+# French translation of mrvbDeltaDate
+# © Mirovinben (http://www.mirovinben.fr/)
+# -------------------------------------
+msgid ""
+msgstr ""
+
+msgid "Mrvb: delta date"
+msgstr "Mrvb : delta date"
+
+msgid "number of days between two dates"
+msgstr "nombre de jours entre deux dates"
+
+msgid "Title:"
+msgstr "Titre&nbsp;:"
+
+msgid "First date <br />(format yyyy/mm/dd, nothing = today):"
+msgstr "Première date <br />(format aaaa/mm/jj, rien = maintenant)&nbsp;:"
+
+msgid "Second date <br />(format yyyy/mm/dd, nothing = today):"
+msgstr "Deuxième date <br />(format aaaa/mm/jj, rien = maintenant)&nbsp;:"
+
+msgid "Caption (singular mode):"
+msgstr "Légende (au singulier)"
+
+msgid "day"
+msgstr "jour"
+
+msgid "Caption (plural mode):"
+msgstr "Légende (au pluriel)"
+
+msgid "days"
+msgstr "jours"
+
+msgid "Link (optional):"
+msgstr "Lien (facultatif)&nbsp;:"
+
+msgid "Explanatory bubble:"
+msgstr "Bulle explicative&nbsp;:"
+
+msgid "Text of introduction:" 
+msgstr "Texte d'introduction&nbsp;:"
+
+msgid "Text of conclusion:"
+msgstr "Texte de conclusion&nbsp;:"
