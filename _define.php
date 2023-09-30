@@ -17,7 +17,7 @@ $this->registerModule(
     'mrvbDeltaDate',
     'Number of days between two dates',
     'Mirovinben',
-    '0.2',
+    '0.2.1',
     [
         'permissions' => 'usage,contentadmin',
         'type'        => 'plugin',

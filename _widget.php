@@ -75,34 +75,9 @@ class mrvbDeltaDateBehaviors
             '',
             'textarea'
         );
-        $w->mrvbDeltaDate->setting(
-            'homeonly',
-            __('Display on:'),
-            'all',
-            'combo',
-            [
-                __('All pages')           => 0,
-                __('Home page only')      => 1,
-                __('Except on home page') => 2,
-            ]
-        );
-        $w->mrvbDeltaDate->setting(
-            'content_only',
-            __('Content only'),
-            0,
-            'check'
-        );
-        $w->mrvbDeltaDate->setting(
-            'CSSclass',
-            __('CSS class:'),
-            '',
-            'text'
-        );
-        $w->mrvbDeltaDate->setting(
-            'offline',
-            __('To put off line'),
-            false,
-            'check'
-        );
+        $w->mrvbDeltaDate->addHomeOnly();
+        $w->mrvbDeltaDate->addContentOnly();
+        $w->mrvbDeltaDate->addClass();
+        $w->mrvbDeltaDate->addOffline();
     }
 }
